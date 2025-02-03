@@ -63,7 +63,8 @@
  - Вход: общая сумма кредита, срок, процентная ставка, тип (аннуитетный, дифференцированный);
  - Выход: ежемесячный платеж, переплата по кредиту, общая выплата.
 
-<br> <img src="./view/calc3.png" alt="Differentiated_calc" width="300" />|<br> <img src="./view/calc2.png" alt="Differentiated_calc" width="300" />
+<img src="./view/calc3.png" alt="Differentiated_calc" width="300" style="display:inline-block;" /> 
+<img src="./view/calc2.png" alt="Differentiated_calc" width="300" style="display:inline-block;" />
 
 ## Технологии
 - С
